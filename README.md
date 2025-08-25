@@ -11,3 +11,9 @@ Roots of this language is:
 * German
 * Greek
 * Posibly even more!
+
+Example word:
+Sandevistanekeize
+  no pra antra kos na devi mo stanekeize
+
+  "A person that foolishly chose and died"
