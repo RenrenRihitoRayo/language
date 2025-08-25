@@ -8,7 +8,7 @@
 "Solkwadra" is every 3 hours
 "Solhav" is noon (Half day)
 "Unsolhav" is midnight (Lucky half day, night is considered spiritual)
-"Sol" is a day
+"Sol" is a day (also used as light)
 "Solsep" is a week (7 days)
 "Solskwadra" is a month (4 sets of 7 days)
 "Skwadreinzipars" is a year (12 sets of 4 sets of 7 days)
