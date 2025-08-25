@@ -1,0 +1,8 @@
+To agree to an action echo back the verb
+IE "are you going to eat?" reply "Ill eat" to agree
+If not use "mut", basically no.
+
+For yes use "si" from Spanish
+
+to ask for agreement end a sentence with "ja"
+use "ya" to make it a tag question.

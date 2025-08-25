@@ -1,0 +1,7 @@
+
+"Tu ist hali mi Pares" => "You are perfect my partner"
+"Tus krorjis ist nes" => "Your family is great"
+"Tu ji keize" => "You failure"
+"Tu ji keikrorjt" => "You must be a failure in your family"
+"Mis vi nets ist Linguitiko" => "My Language is the best"
+"einz Ciano ji magetinai Mis Linguitiko dali" => "A person wont understand my language easily"

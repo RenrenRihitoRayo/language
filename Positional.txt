@@ -1,0 +1,6 @@
+"sa" is on
+"la" is in
+"lo" is top
+"lonai" is bottom
+"linen" is right
+"liften" is left

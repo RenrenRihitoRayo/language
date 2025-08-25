@@ -1,0 +1,13 @@
+"mu" is asking if you are doing a certain action
+"wan" is what
+"ven" is when (german accent of when)
+"pano" is how (tagalog, pano)
+"ha" is where
+"naze" is why
+"mo" is just a marker
+
+mo is used when the sentence isnt a question (can be a question) but said in a tone of a question, for confusion.
+
+"mo mut?" => "no?"
+or for asking agreement or responding
+"mo ja?" => "yeah?"

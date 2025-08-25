@@ -1,0 +1,38 @@
+"sanlat" is all (from 'sang lahat)
+"savas" is also all but for objects (ei also a word for world, can also be from canvas)
+"hav" is half
+"manshe" is some (german manche)
+"mesten" is most (german am meisten)
+"sa" is among (Filipino sa)
+
+Counting
+"nil" is zero
+"ein" is single (one)
+"pars" is couple (two)
+"trikt" is three
+"kwadra" is four
+"funf" is five
+"hes" is six
+"sen" is seven
+"kito" is eight
+"nun" is nine
+add zi for tens
+"einzi" is ten
+"parszi" is 20 (s is silent)
+"triktzi" is 30
+"kwadrazi" 40
+... so on
+A hundred is just zero after numbers yes?
+And "10" + "0" = "100"
+so
+100 is "einzinil"
+1,000 is "einzinilze"
+10,000 is "einzinilzen"
+100,000 is "einzinilzenil"
+pattern goes on.
+
+123 is "einzenil parszi trikt"
+
+Decimals (the numbers after the dot) must start with "deka" (decimal, also dec 10) and pronounced digit by digit.
+
+3.1415 is "trikt deka ein kwadra ein funf"
