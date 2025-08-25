@@ -13,7 +13,9 @@ Roots of this language is:
 * Posibly even more!
 
 Example word:
+<pre>
 Sandevistanekeize
   no pra antra kos na devi mo stanekeize
 
   "A person that foolishly chose and died"
+</pre>
